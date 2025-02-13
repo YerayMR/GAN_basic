@@ -9,7 +9,6 @@ Este proyecto implementa una Red Generativa Antagónica (GAN) para generar imág
 - [Ejecución](#ejecución)
 - [Resultados](#resultados)
 - [Autor](#autor)
-- [Licencia](#licencia)
 
 ## Requisitos
 
@@ -22,7 +21,7 @@ Este proyecto implementa una Red Generativa Antagónica (GAN) para generar imág
 
 1. Clona el repositorio:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone [<URL_DEL_REPOSITORIO>](https://github.com/YerayMR/GAN_basic)
    cd GAN
    ```
 
